@@ -5,7 +5,7 @@ Umgebung: Balkonkraftwerk mit AhoyDTU
           erzeugter Strom wird entweder im Haus verbraucht, überschüssiger Strom geht als "Spende" an den Stromlieferanten
 Ziel: Reduktion der "Spende" an den Stromlieferanten
 
-beschrieben habe ich dies hier: Link zum Blog: https://xxxxx
+beschrieben habe ich dies hier: Link zum Blog: [https://xxxxx](https://linux-fuer-wi.blogspot.com/2026/01/keine-spende-stromlieferanten.html)
 
 hier liefere ich die Dateien zu meinem Text.
 
